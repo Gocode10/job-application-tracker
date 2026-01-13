@@ -41,7 +41,8 @@ job-application-tracker/
 │ ├── routes/
 │ ├── middleware/
 │ └── index.js
-│
+
+
 ├── frontend/
 │ ├── src/
 │ ├── components/
