@@ -51,8 +51,7 @@ job-application-tracker/
 
 ## ⚙️ How to Run Locally
 
- 
- 1️⃣ Clone the repository
+1️⃣ Clone the repository
 ```bash
 git clone https://github.com/Gocode10/job-application-tracker.git
 cd job-application-tracker
