@@ -13,7 +13,7 @@ router.get('/', authMiddleware, async (req, res) => {
   }
 });
 
-// CREATE job
+// CREATEjob
 router.post('/', authMiddleware, async (req, res) => {
   try {
     const job = await Job.create({
