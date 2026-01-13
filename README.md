@@ -60,11 +60,6 @@ cd job-application-tracker
 cd backend
 npm install
 
-Create a .env file inside backend:
-
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_jwt_secret
-
 Run the backend server:
 npm run dev
 
