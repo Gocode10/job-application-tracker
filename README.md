@@ -50,9 +50,9 @@ job-application-tracker/
 
 ```
 ## ⚙️ How to Run Locally
-
+```
 1️⃣ Clone the repository
-```bash
+bash
 git clone https://github.com/Gocode10/job-application-tracker.git
 cd job-application-tracker
 
@@ -78,7 +78,7 @@ npm run dev
 
 Frontend runs on:
 http://localhost:5173
-
+```
 
 🔐 Authentication Flow:
 JWT token is generated on login/register
