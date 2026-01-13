@@ -32,7 +32,7 @@ A full-stack web application to help users track their job applications, manage 
 
 
 ## 📂 Project Structure 
-
+```
 job-application-tracker/
 │
 ├── backend/
@@ -41,8 +41,6 @@ job-application-tracker/
 │ ├── routes/
 │ ├── middleware/
 │ └── index.js
-
-
 ├── frontend/
 │ ├── src/
 │ ├── components/
@@ -50,6 +48,7 @@ job-application-tracker/
 │ └── main.jsx
 ├── .gitignore
 
+```
 ## ⚙️ How to Run Locally
 
 1️⃣ Clone the repository
