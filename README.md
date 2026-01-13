@@ -78,7 +78,7 @@ npm run dev
 
 Frontend runs on:
 http://localhost:5173
-```
+
 
 🔐 Authentication Flow:
 JWT token is generated on login/register
@@ -86,7 +86,7 @@ Token is stored in localStorage
 Protected routes are handled using a ProtectedRoute component
 Axios interceptors attach the token to API requests
 Users are automatically logged out on unauthorized responses
-
+```
 
 👤 Author
 Vaibhav Saini
