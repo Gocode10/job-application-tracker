@@ -89,4 +89,5 @@ Users are automatically logged out on unauthorized responses
 ```
 
 👤 Author
+
 Vaibhav Saini
